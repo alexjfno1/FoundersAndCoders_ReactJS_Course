@@ -7,3 +7,19 @@ https://ti.to/founders-coders/begin-react-workshop
 
 Github Repo: https://github.com/foundersandcoders/begin_react_workshop
 
+### Refs
+Id's for components
+```JSX
+<Component ref="exampleRef"/>
+```
+
+#### Uncontrolled Forms
+Use refs in uncontrolled form to find the dom node and get value.
+
+
+#### Controlled Form
+These forms are stateful.
+
+Input field with change handler, onChange with update the state of that component.
+
+
